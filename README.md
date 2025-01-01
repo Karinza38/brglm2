@@ -1,4 +1,4 @@
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+ <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # brglm2 <img src="man/figures/hex_brglm2.svg" width="320" align="right">
 
